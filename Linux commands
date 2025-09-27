@@ -84,7 +84,7 @@ Example: nmap 192.168.1.1
 mkdir <dir>
 
 Make a new directory.
-Example:(ananya㉿kali)-[~]
+Example:(Hunter㉿kali)-[~]
 └─$ mkdir hi
 (Hunter㉿kali)-[~]
 └─$ ls
